@@ -1,0 +1,1711 @@
+{
+  "project_info": {
+    "project_number": "344174481383",
+    "firebase_url": "https://katalis-89754.firebaseio.com",
+    "project_id": "katalis-89754",
+    "storage_bucket": "katalis-89754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:651c1779158e13d803f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.alazharsolobaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:9bad0aa3e57b9a8b",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.alfirdaus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:9bc7fbb51903883d",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.alfityan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:f470ddc5b8ed435403f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.alfurqan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:af178fe9fb26c2d603f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.alizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:8b356754eafeed8d03f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.aluswah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:acadea7ef3b3f2f103f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.aqlislamicschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:fdbe583766521b9003f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.asysyadzili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:162473520454cdf903f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.binamadani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:be9a4972c1cdc11603f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.daarennisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:5745c86ee37d7f5103f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.edmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:145d4bc86643baa303f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.eltahfidh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:d8a2ef7a5041dc42",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.fitrahinsanmulia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:cc2fda2ecaaac20703f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.gisduaserpong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:dfea6927e2ac6ad503f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.hatiberiman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:f1b88b43d78c407803f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.ibspekanbaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:79d814e322e2ce5503f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.icbspayakumbuh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:3a6296e6f8999d6203f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.igasarpadang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:a2e2710803220280",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.ihbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:44c485e99c01b20003f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.imamasysyafii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:9c6bae320c7f2cbf",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.insancendekia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:e8602b5ba8b7799a03f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.islamcitranuansa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:6dc12b1cfe9dbc9c03f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.jagasalatiga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-cbotaicmmqie4u1k2piuka4g3st1f6q3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.solusinegeri.jagasalatiga",
+            "certificate_hash": "5dc1cb6f8ef92ed943b95d764f5881aef6ee855e"
+          }
+        },
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:fd19e396a1ae8dc503f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.jagatarsy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:1a37c21015234c03",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.katalis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:a1a7bcd274f2bf7903f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.katalisedc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:ec3449ce4304518803f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.khairunnas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:f7ad580237cff83f03f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.maarifjambi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:9cf3e62baf25d96d03f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.miftahululum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:a85b2cb184decfa903f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.muhammadiyahbanjar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:30d07dfe4c1553ff03f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.musasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:14d495fba858dedd03f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.nuraida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:44001407079b589703f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.ppdumalang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:a2120ae5de3cb743",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.psp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:07571e35a7dfc10703f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.pspEdmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:311d14f3f8a14ac203f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.psplite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:940fdd251d6d606f03f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.rabbani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:cdd16318504575e803f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.smamuhamadiyah2yogya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:831d011457ea36bd03f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.studentone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:f88de920f77925e903f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.tarbiyatulhuda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:5d7d54cc462cc37603f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.tazkia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:cacd17e16dd50fc003f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.tazkiaboardingschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:51c32910ea001de603f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.ulilalbabbatam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:97356da02fad94e9",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.umbas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:678d13e68a7329a603f742",
+        "android_client_info": {
+          "package_name": "id.co.solusinegeri.zamzamiparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:08ad32d96f9a850203f742",
+        "android_client_info": {
+          "package_name": "id.co.sun.zamzamiparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344174481383:android:f49a1de7d8f52e9703f742",
+        "android_client_info": {
+          "package_name": "id.co.tki.daarennisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF1ZI0nTcDtycaTxyzpeDwErdQ48cJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344174481383-juh7hhqd8sng75n7ue2qkbfdd3gm8rp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "344174481383-f29ktmk45uatsccsbd2rknqo2bms7eia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "id.co.solusinegeri.psp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
