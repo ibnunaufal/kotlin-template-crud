@@ -11,4 +11,9 @@ class UserRepository(private val api: UserApi) : BaseRepository(){
         ) = safeApiCall {
         api.login(ModelLogin(username, password))
     }
+    suspend fun cari(
+        cari: String
+        ) = safeApiCall {
+        api.cari(cari)
+    }
 }

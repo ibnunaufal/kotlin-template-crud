@@ -19,14 +19,13 @@ class MainFragment: BaseFragment<MainViewModel, FragmentMainBinding, UserReposit
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        binding.btnLogin.setOnClickListener {
-            val uname = binding.edUsername.text.toString()
-            val pass = binding.edPassword.text.toString()
+        binding.btnCari.setOnClickListener {
+            val uname = binding.edCari.text.toString()
             view?.let { progressDialog.show(it.context) }
-            viewModel.login(uname, pass)
+            viewModel.cari(uname)
         }
 
-        viewModel.loginResponse.observe(viewLifecycleOwner, Observer {
+        viewModel.cariResponse.observe(viewLifecycleOwner, Observer {
             when (it) {
                 is Resource.Success -> {
                     progressDialog.dialog.dismiss()

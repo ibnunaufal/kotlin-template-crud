@@ -10,28 +10,10 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="80dp">
-
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:src="@drawable/logo_psp" />
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:layout_marginHorizontal="35dp"
         android:layout_marginTop="80dp"
         android:orientation="vertical">
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Login"
-            android:textColor="@color/psp_blue"
-            android:textSize="18dp"
-            android:textStyle="bold" />
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -40,42 +22,15 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Username" />
+                android:text="Package Name" />
             <EditText
-                android:id="@+id/ed_username"
+                android:id="@+id/ed_cari"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/input_bg"
                 android:paddingHorizontal="10dp"/>
         </LinearLayout>
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginVertical="10dp"
-            android:orientation="vertical">
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Password" />
-
-            <EditText
-                android:id="@+id/ed_password"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:ems="10"
-                android:inputType="textPassword"
-                android:paddingHorizontal="10dp"
-
-                android:background="@drawable/input_bg"/>
-        </LinearLayout>
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Lupa Password?"
-            android:textAlignment="viewEnd"
-            android:textStyle="bold" />
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -83,43 +38,13 @@
             android:layout_marginTop="10dp"
             android:orientation="vertical">
             <Button
-                android:id="@+id/btn_login"
+                android:id="@+id/btn_cari"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/psp_btn"
                 android:textAllCaps="false"
-                android:text="Login"/>
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                android:layout_marginVertical="10dp">
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:src="@drawable/line"/>
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:textAlignment="center"
-                    android:textSize="15dp"
-                    android:text="Atau"/>
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:layout_weight="1"
-                    android:src="@drawable/line"/>
-            </LinearLayout>
-            <Button
-                android:id="@+id/btn_biometric"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:background="@drawable/psp_btn_outline"
-                android:textAllCaps="false"
-                android:textColor="@color/psp_blue"
-                android:text="Login Sidik Jari"/>
+                android:text="Cari"/>
+
         </LinearLayout>
 
     </LinearLayout>
