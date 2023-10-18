@@ -17,6 +17,7 @@ import id.co.ibnunaufal.template.ui.progressDialog.ProgressDialog
 import id.co.ibnunaufal.template.ui.startNewActivity
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
+import androidx.appcompat.app.AppCompatActivity
 
 abstract class BaseFragment<VM: ViewModel, B: ViewBinding, R: BaseRepository> : Fragment() {
 

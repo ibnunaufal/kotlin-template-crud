@@ -13,4 +13,6 @@
 
     <color name="gray_bg">#F3F4FB</color>
     <color name="psp_blue">#0054E6</color>
+
+    <color name="gray_txt">#5F5F5F</color>
 </resources>
