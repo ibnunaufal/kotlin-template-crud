@@ -2,15 +2,16 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
     android:orientation="vertical">
 
     <androidx.cardview.widget.CardView
+        android:id="@+id/card"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:cardCornerRadius="8dp"
         android:padding="12dp"
-        android:layout_marginTop="40dp"
+        android:layout_marginTop="8dp"
         app:cardElevation="0dp">
 
         <LinearLayout
@@ -21,8 +22,7 @@
 
             <androidx.constraintlayout.widget.ConstraintLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal">
+                android:layout_height="wrap_content">
 
                 <TextView
                     android:id="@+id/tvIdTitle"
@@ -54,77 +54,112 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="4dp"
-                android:textColor="@color/gray_txt"
+                android:textColor="@color/black"
                 android:text="60b84fe98588af5c8a7aabb2"
-                android:fontFamily="@font/poppinsmedium"/>
+                android:fontFamily="@font/poppinsmedium"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
 
-            <LinearLayout
-                android:layout_width="wrap_content"
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal"
                 android:layout_marginTop="16dp">
 
-                <ImageView
-                    android:id="@+id/imageUrgent"
-                    android:layout_width="20dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/urgency"/>
-
-                <TextView
-                    android:id="@+id/tvUrgency"
+                <LinearLayout
+                    android:id="@+id/urgentRow"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Urgency = "
-                    android:fontFamily="@font/poppinsregular"
-                    android:textColor="@color/black"
-                    android:layout_marginStart="4dp"/>
-
-                <TextView
-                    android:id="@+id/tvUrgencyStatus"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="true"
-                    android:fontFamily="@font/poppinsregular"
-                    android:textColor="@color/black"/>
-
-            </LinearLayout>
-
-            <LinearLayout
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal"
-                android:layout_marginTop="4dp">
-
-                <ImageView
-                    android:id="@+id/imageMigrate"
-                    android:layout_width="20dp"
-                    android:layout_height="20dp"
-                    android:src="@drawable/migration"
+                    android:orientation="horizontal"
                     app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toBottomOf="@+id/imageUrgent"
-                    android:layout_marginTop="4dp"/>
+                    app:layout_constraintTop_toTopOf="parent">
 
-                <TextView
-                    android:id="@+id/tvMigrate"
+                    <ImageView
+                        android:id="@+id/imageUrgent"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/urgency" />
+
+                    <TextView
+                        android:id="@+id/tvUrgency"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="4dp"
+                        android:fontFamily="@font/poppinsregular"
+                        android:text="Urgency = "
+                        android:textColor="@color/black" />
+
+                    <TextView
+                        android:id="@+id/tvUrgencyStatus"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/poppinsregular"
+                        android:text="true"
+                        android:textColor="@color/black" />
+
+                </LinearLayout>
+
+                <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Migrate = "
-                    android:fontFamily="@font/poppinsregular"
-                    android:textColor="@color/black"
-                    app:layout_constraintStart_toEndOf="@+id/imageMigrate"
-                    app:layout_constraintTop_toBottomOf="@+id/tvUrgency"
-                    android:layout_marginTop="0dp"
-                    android:layout_marginStart="4dp"/>
+                    android:orientation="horizontal"
+                    app:layout_constraintTop_toBottomOf="@+id/urgentRow"
+                    app:layout_constraintStart_toStartOf="parent">
 
-                <TextView
-                    android:id="@+id/tvMigrationStatus"
+                    <ImageView
+                        android:id="@+id/imageMigrate"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_marginTop="4dp"
+                        android:src="@drawable/migration"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/imageUrgent" />
+
+                    <TextView
+                        android:id="@+id/tvMigrate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="4dp"
+                        android:layout_marginTop="0dp"
+                        android:fontFamily="@font/poppinsregular"
+                        android:text="Migrate = "
+                        android:textColor="@color/black"
+                        app:layout_constraintStart_toEndOf="@+id/imageMigrate"
+                        app:layout_constraintTop_toBottomOf="@+id/tvUrgency" />
+
+                    <TextView
+                        android:id="@+id/tvMigrationStatus"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/poppinsregular"
+                        android:text="true"
+                        android:textColor="@color/black" />
+
+                </LinearLayout>
+
+                <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="true"
-                    android:fontFamily="@font/poppinsregular"
-                    android:textColor="@color/black"/>
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    android:orientation="horizontal">
 
-            </LinearLayout>
+                    <ImageView
+                        android:id="@+id/btnEdit"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_edit"
+                        android:layout_marginEnd="12dp"/>
+
+                    <ImageView
+                        android:id="@+id/btnDelete"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:src="@drawable/ic_delete"/>
+
+
+                </LinearLayout>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
 
         </LinearLayout>
 

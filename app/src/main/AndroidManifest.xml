@@ -15,9 +15,8 @@
             android:name="id.co.ibnunaufal.template.MainActivity"
             android:theme="@style/AppTheme.NoActionBar"
             android:exported="true">
-            <intent-filter>
+            <intent-filter android:exported="true">
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
